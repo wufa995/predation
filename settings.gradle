@@ -1,0 +1,4 @@
+rootProject.name = 'wufa995.cn'
+include 'plant'
+findProject(':plant')?.name = 'predation'
+
